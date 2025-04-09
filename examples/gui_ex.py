@@ -1,4 +1,4 @@
-from easy_python.gui import EasyWindow
+from EasyPyTools.gui import EasyWindow
 
 window = EasyWindow("EasyWindow")
 window.add_label("Hello")
