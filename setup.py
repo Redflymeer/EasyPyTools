@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from setuptools import setup, find_packages
 
 setup(
-    name="EasyPyTools",          # Name on PyPI 
+    name="PyZest",          # Name on PyPI 
     version="0.1.0",             # Version
     packages=find_packages(),    # Finder package
     install_requires=[
@@ -14,7 +14,7 @@ setup(
     ],         # Requires
     author="RedFlyMeer",
     author_email="redflymeer@gmail.com",
-    description="EasyPython",
+    description="Simple Python",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/redflymeer/EasyPyTools",
