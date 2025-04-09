@@ -1,0 +1,14 @@
+README.md
+setup.py
+core/__init__.py
+core/data.py
+core/download.py
+core/files.py
+core/gui.py
+core/telegram.py
+core/web.py
+easypython.egg-info/PKG-INFO
+easypython.egg-info/SOURCES.txt
+easypython.egg-info/dependency_links.txt
+easypython.egg-info/requires.txt
+easypython.egg-info/top_level.txt

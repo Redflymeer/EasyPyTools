@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: easypython
+Version: 0.1.0
+Requires-Python: >=3.8
+Requires-Dist: requests>=2.25.1
+Requires-Dist: beautifulsoup4>=4.9.3
+Requires-Dist: aiogram>=2.23.1
+Requires-Dist: tqdm>=4.60.0
+Requires-Dist: PySide6>=6.4.0
+Dynamic: requires-dist
+Dynamic: requires-python
