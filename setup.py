@@ -17,7 +17,7 @@ setup(
     description="Simple Python",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/redflymeer/EasyPyTools",
+    url="https://github.com/redflymeer/PyZest",
     keywords="python easy http gui telegram web files",
     classifiers=[
         "Programming Language :: Python :: 3",
