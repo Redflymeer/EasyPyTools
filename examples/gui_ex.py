@@ -1,4 +1,4 @@
-from EasyPyTools.gui import EasyWindow
+from PyZest.gui import EasyWindow
 
 window = EasyWindow("EasyWindow")
 window.add_label("Hello")
