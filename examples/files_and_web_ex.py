@@ -1,5 +1,5 @@
-from EasyPyTools.web import fetch_url, scrape_links
-from EasyPyTools.files import write_json
+from PyZest.web import fetch_url, scrape_links
+from PyZest.files import write_json
 
 # Getting url
 links = scrape_links("https://python.org")
